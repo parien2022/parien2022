@@ -1,16 +1,24 @@
-## Hi there 👋
+#About me 👋
+I'm a Software Development Engineer in Test (SDET), with a strong foundation in software development and quality assurance, I am passionate about finding problems and solving them, ensuring smooth and reliable functionality in the systems I work with.
 
-<!--
-**parien2022/parien2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m an SDET at Verifone
+- 🌱 I’m currently studying for a Bachelor of Software Development at BYUI
+- 📫 How to reach me: www.linkedin.com/in/agustín-pariente-b401a0213
 
-Here are some ideas to get you started:
+#Technical Skills
+• Automation: Selenium, Playwright, Jenkins
+• Backend/MicroServices Testing: 
+Postman(REST), Soap-UI (SOAP)
+• Databases: Oracle, PostgreSQL
+• Platforms: Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Soft Skills
+• Team collaboration
+• Problem-solving
+• Leadership and mentoring
+• Test planning and strategy
+
+BYUI Relevant Personal Projects:
+Movie Site (HTML, CSS, JS) -> https://github.com/parien2022/wdd330_final_project
+Company Manager API (JS, Node.js) -> https://github.com/parien2022/cse341-node-project-2
+
